@@ -16,3 +16,24 @@ An aspiring data scientist is to be curious, extremely argumentative and judgmen
 * Curiosity is absolute must. If you're not curious, you would not know what to do with the data. 
 * Judgmental because if you do not have preconceived notions about things you wouldn't know where to begin with. 
 * Argumentative because if you can argument and if you can plead a case, at least you can start somewhere and then you learn from data and then you modify your assumptions and hypotheses and your data would help you learn.
+
+
+# Role of Cloud for Data Science.
+
+* Cloud is a godsend for data scientists. It allows us to bypass the physical limitations of the computers and the systems we're using and allows us to deploy the analytics and storage capacities of advanced machines that do not necessarily have to be our machine or our company's machine. 
+
+* Cloud have the algorithms available, so we deploy those algorithms on very large datasets and we're able to do it even though our own systems, our own machines, our own computing environments were not allowing us to do so.
+
+* Using the Cloud enables us to get instant access to open source technologies like Apache Spark without the need to install and configure them locally. Using the Cloud also gives you access to the most up-to-date tools and libraries without the worry of maintaining them and ensuring that they are up to date. 
+
+* The Cloud is accessible from everywhere and in every time zone.
+
+
+
+
+
+
+
+
+
+
