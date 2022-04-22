@@ -61,16 +61,20 @@ An aspiring data scientist is to be curious, extremely argumentative and judgmen
      - Attributes include consistency, completeness, integrity, and ambiguity. 
      - Drivers include cost and the need for traceability. 
  
-    With the large amount of data available, the debate rages on about the accuracy of data in the digital age. Is the information real, or is it false?
+       With the large amount of data available, the debate rages on about the accuracy of data in the digital age. Is the information real, or is it false?
     
-    80% of data is considered to be unstructured and we must devise ways to produce reliable and accurate insights. The data must be categorized, analyzed, and visualized. 
+        80% of data is considered to be unstructured and we must devise ways to produce reliable and accurate insights. The data must be categorized, analyzed, and visualized. 
  
  * **Value** - Value is our ability and need to turn data into value. Value isn't just profit. It may have medical or social benefits, as well as customer, employee, or personal satisfaction. The main reason that people invest time to understand Big Data is to derive value from it.
 
 
-So the scale of the data being collected means that it’s not feasible to use conventional data analysis tools. However, alternative tools that leverage distributed computing power can overcome this problem. Tools such as **Apache Spark** (Open source unified analytics engine for large scale data processing), **Hadoop** (Open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data) and its ecosystem provide ways to extract, load, analyze, and process the data across distributed compute resources, providing new insights and knowledge. 
+    So the scale of the data being collected means that it’s not feasible to use conventional data analysis tools. However, alternative tools that leverage distributed computing power can overcome this problem. Tools such as: 
+    * **Apache Spark** (Open source unified analytics engine for large scale data processing), 
+    * **Hadoop** (Open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data),
+ 
+     and its ecosystem provide ways to extract, load, analyze, and process the data across distributed compute resources, providing new insights and knowledge. 
 
-This gives organizations more ways to connect with their customers and enrich the services they offer.
+     This gives organizations more ways to connect with their customers and enrich the services they offer.
 
 
 ### What is Data Mining?
