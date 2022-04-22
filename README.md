@@ -1,4 +1,4 @@
-# What is Data Science?
+### What is Data Science?
 
 Data science is the study of data. It is the process of using data to understand different things, to understand the world. 
 
