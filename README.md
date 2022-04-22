@@ -1,13 +1,24 @@
 # What is Data Science?
 
-Data science is the study of data. It is the process of using data to understand different things, to understand the world. 
+* Data Science is the process and method for extracting knowledge and insights from large volumes of disparate data. It's an interdisciplinary field involving mathematics, statistical analysis, data visualization, machine learning, and more. It's what makes it possible for us to appropriate information, see patterns, find meaning from large volumes of data and use it to make decisions that drive business. Data Science can use many of the AI techniques to derive insight from data. For example, it could use machine learning algorithms and even deep learning models to extract meaning and draw inferences from data. 
 
-Data science is a field about processes and systems to extract data from various forms of whether it is unstructured or structured form. But what is Data Science? I'd see data science as one's attempt to work with data, to find answers to questions that they are exploring. In a nutshell, it's more about data than it is about science. If you have data, and you have curiosity, and you're working with data, and you're manipulating it, you're exploring it, the very exercise of going through analyzing data, trying to get some answers from it is data science.
+* There is some interaction between AI and Data Science, but one is not a subset of the other. Rather, Data Science is a broad term that encompasses the entire data processing methodology while AI includes everything that allows computers to learn how to solve problems and make intelligent decisions. Both AI and Data Science can involve the use of big data.
 
-Data science can help organizations understand their environments, analyze existing issues, and reveal previously hidden opportunities. Data scientists use data analysis to add to the knowledge of the organization by investigating data, exploring the best way to use it to provide value to the business. 
+* Data scientists can analyze structured and unstructured data from many sources, and depending on the nature of the problem, they can choose to analyze the data in different ways. Using multiple models to explore the data reveals patterns and outliers; sometimes, this will confirm what the organization suspects, but sometimes it will be completely new knowledge, leading the organization to a new approach.
 
-Data scientists can analyze structured and unstructured data from many sources, and depending on the nature of the problem, they can choose to analyze the data in different ways. Using multiple models to explore the data reveals patterns and outliers; sometimes, this will confirm what the organization suspects, but sometimes it will be completely new knowledge, leading the organization to a new approach.
 
+
+# Terms Used in Data Science.
+
+**1. Big Data** - The term big data refers to data sets that are so massive, so quickly built, and so varied that they defy traditional analysis methods such as you might perform with a relational database. The concurrent development of enormous compute power in distributed networks and new tools and techniques for data analysis means that organizations now have the power to analyze these vast data sets. A new knowledge and insights are becoming available to everyone.
+
+**2. Data Mining** - It is the process of automatically searching and analyzing data, discovering previously unrevealed patterns. It involves preprocessing the data to prepare it and transforming it into an appropriate format. Once this is done, insights and patterns are mined and extracted using various tools and techniques ranging from simple data visualization tools to machine learning and statistical models.
+
+**3.  Machine learning** - It is a subset of AI that uses computer algorithms to analyze data and make intelligent decisions based on what it is learned without being explicitly programmed. Machine learning algorithms are trained with large sets of data and they learn from examples. They do not follow rules-based algorithms. Machine learning is what enables machines to solve problems on their own and make accurate predictions using the provided data.
+
+**4. Deep learning** - It is a specialized subset of machine learning that uses layered neural networks to simulate human decision-making. Deep learning algorithms can label and categorize information and identify patterns. It is what enables AI systems to continuously learn on the job and improve the quality and accuracy of results by determining whether decisions were correct. 
+
+**5. Artificial Neural Networks** - A neural network in AI is a collection of small computing units called neurons that take incoming data and learn to make decisions over time. Neural networks are often layer-deep and are the reason deep learning algorithms become more efficient as the data sets increase in volume, as opposed to other machine learning algorithms that may plateau as data increases.
 
 
 # Advice to the New Data Scientists.
@@ -26,7 +37,7 @@ An aspiring data scientist is to be curious, extremely argumentative and judgmen
 
 * Cloud have the algorithms available, so we deploy those algorithms on very large datasets and we're able to do it even though our own systems, our own machines, our own computing environments were not allowing us to do so.
 
-* Using the Cloud enables us to get instant access to open source technologies like Apache Spark without the need to install and configure them locally. Using the Cloud also gives you access to the most up-to-date tools and libraries without the worry of maintaining them and ensuring that they are up to date. 
+* Using the Cloud enables us to get instant access to open source technologies like Apache Spark without the need to install and configure them locally. Using the Cloud also gives us access to the most up-to-date tools and libraries without the worry of maintaining them and ensuring that they are up to date. 
 
 * The Cloud is accessible from everywhere and in every time zone.
 
@@ -60,6 +71,36 @@ An aspiring data scientist is to be curious, extremely argumentative and judgmen
 So the scale of the data being collected means that it’s not feasible to use conventional data analysis tools. However, alternative tools that leverage distributed computing power can overcome this problem. Tools such as **Apache Spark** (Open source unified analytics engine for large scale data processing), **Hadoop** (Open source framework that is used to efficiently store and process large datasets ranging in size from gigabytes to petabytes of data) and its ecosystem provide ways to extract, load, analyze, and process the data across distributed compute resources, providing new insights and knowledge. 
 
 This gives organizations more ways to connect with their customers and enrich the services they offer.
+
+
+### What is Data Mining?
+
+Data Mining is the process of extracting usable data from a large set of any raw data. The first step in data mining requires you to set up goals for the exercise. i.e.,
+
+* **Selecting Data** as the output of a data-mining exercise largely depends upon the quality of data being used. The type of data, its size, and frequency of collection have a direct bearing on the cost of data mining exercise.
+
+* **Preprocessing Data** as tha quality of the data should be checked before applying machine learning or data mining algorithms because we cannot work with raw data.
+
+* **Transforming Data** which converts the raw data into a suitable format that efficiently eases data mining and retrives strategic information.
+
+* **Storing Data** as the data must be stored in a format that gives unrestricted and immediate read/write privileges to the data scientist. Data safety and privacy should be a prime concern for storing data on servers or storage media that keeps the data secure and also prevents the data mining algorithm from unnecessarily searching for pieces of data scattered on different servers or storage media.
+
+* **Mining Data** so it helps in developing a preliminary understanding of the trends hidden in the data set. A good starting point for data mining is data visualization.
+
+* **Evaluating Mining Results** as it's an iterative process such that the analysts use better and improved algorithms to improve the quality of results generated in light of the feedback received from the key stakeholders.
+    
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
