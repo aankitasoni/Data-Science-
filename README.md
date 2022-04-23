@@ -95,9 +95,38 @@ Data Mining is the process of extracting usable data from a large set of any raw
     
 
 
+# How Data Science Useful?
+
+### Data Science in Healthcare.
+
+- Data scientists use predictive analytics developed from data mining, data modeling, statistics, and machine learning to find the best options for patients.
+
+- Data science systems that use predictive analytics ensure that all physicians can also access the latest information about the disease, tests, and treatment plans, tailored to their specific patient.
+
+### Data Science Careers.
+
+* Data Scientists need programming, mathematics, and database skills, many of which can be gained through self-learning.
+
+* Companies recruiting for a Data Science team need to understand the variety of different roles Data Scientists can play, and look for soft skills like storytelling and relationship building as well as technical skills.
+
+* High school students considering a career in Data Science should learn programming, math, databases, and, most importantly practice their skills.
 
 
+# The Report Structure.
 
+The structure of the report depends on the length of the document. 
+- A brief report is more to the point and presents a summary of key findings. Brief reports were drafted as commentaries on current trends and developments that attracted public or media attention. 
+- A detailed report incrementally builds the argument and contains details about other relevant works, research methodology, data sources, and intermediate findings along with the main results. Detailed and comprehensive reports offered a critical review of the subject matter with extensive data analysis and commentary. Often, detailed reports collected new data or interviewed industry experts to answer the research questions.
+
+The report that is deliverable follow a prescribed format including the cover page, table of contents, executive summary, detailed contents, acknowledgments, references, and appendices (if needed).
+
+- The cover page should include the title of the report, names of authors, their affiliations, and contacts, the name of the institutional publisher (if any), and the date of publication.
+- The "Table of Contents" (ToC) with main headings and lists of tables and figures offers a glimpse of what lies ahead in the document.
+- An "abstract" or an "executive summary" and an "introductory section" is always helpful in setting up the problem for the reader who might be new to the topic and who might need to be gently introduced to the subject matter before being immersed in intricate details. 
+- In the "methodology" section, introduce the research methods and data sources used for the analysis. If new data collected, explain the data collection exercise in some detail.
+- The results section is where you present your empirical findings. Starting with descriptive statistics and illustrative graphics, move toward formally testing your hypothesis.
+- The results section is followed by the discussion section, where you craft your main arguments by building on the results you have presented earlier.
+- In the "conclusion" section, generalize specific findings and take on a rather marketing approach to promote findings so that the reader does not remain stuck in the caveats that have voluntarily outlined earlier and also identify future possible developments in research and applications that could result from the research.
 
 
 
