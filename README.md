@@ -116,6 +116,7 @@ Data Mining is the process of extracting usable data from a large set of any raw
 
 The structure of the report depends on the length of the document. 
 - A brief report is more to the point and presents a summary of key findings. Brief reports were drafted as commentaries on current trends and developments that attracted public or media attention. 
+
 - A detailed report incrementally builds the argument and contains details about other relevant works, research methodology, data sources, and intermediate findings along with the main results. Detailed and comprehensive reports offered a critical review of the subject matter with extensive data analysis and commentary. Often, detailed reports collected new data or interviewed industry experts to answer the research questions.
 
 The report that is deliverable follow a prescribed format including the cover page, table of contents, executive summary, detailed contents, acknowledgments, references, and appendices (if needed).
